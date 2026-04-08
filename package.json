@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/Jaiquiro/cber-terminus/issues"
   },
-  "homepage": "https://github.com/Jaiquiro/cber-terminus#readme"
+  "homepage": "https://github.com/Jaiquiro/cber-terminus#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.0",
+    "globals": "^17.4.0",
+    "typescript-eslint": "^8.58.1"
+  }
 }
