@@ -1,0 +1,24 @@
+{
+  "name": "cber-terminus",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene la base del proyeto con metodologia gitflow",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaiquiro/cber-terminus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jaiquiro/cber-terminus/issues"
+  },
+  "homepage": "https://github.com/Jaiquiro/cber-terminus#readme"
+}
