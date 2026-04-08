@@ -2,10 +2,12 @@ name: Gitflow
 
 on:
   push:
-    branches: -develop
+    branches:
+      - develop
   pull_request:
-    branches: -develop
-      -main
+    branches:
+      - develop
+      - main
 
 jobs:
   build:
